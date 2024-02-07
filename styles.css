@@ -1,0 +1,16 @@
+img{
+    auto;
+    width:500px;
+}
+
+.Ingredients{
+    color:red;
+    text-align:center;
+    background-color:yellow;
+}
+
+.Instructions{
+    color:yellow;
+    text-align:center;
+    background-color:red;
+}
